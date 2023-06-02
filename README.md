@@ -10,37 +10,36 @@ Are you ready?
 
 ## Requirements
 
-The CoHack lab platfrom consists of 3 VMs: Hack-vm (Windows10), Workstation-vm (Windows10) and Dc-vm (Windows Server 2016) 
-
-
-
+The CoHack lab platfrom consists of 3 VMs: Hack-vm (Windows10), Workstation-vm (Windows10) and Dc-vm (Windows Server 2016).
+The platform is already deployed. To start hacking, you have to connect to Hack-VM using RDP connection. The IP address and credentials will be provided by the coach.  
 
 ## Learning Objectives
 
-This hack will help you learn:
+This hack will help you learn about:
 - Network scanning 
 - Brute force attack 
 - Privilege escalation
 - Pass the hash attack  
 
-## Hacking Steps
+## Success Criteria
 
 1. Connect to the Hack-vm using RDP. Your coach will provide you with the Public IP address and credentials.
 
-2. Use a tool from the toolbox to discover the private IP address of the Workstation-vm.
+2. Use a resource to discover the private IP address of the Workstation-vm.
 
-3. Use a tool from the toolbox to find the login and password that will allow you to connect to the Workstation-vm using RDP.
+3. Use a resource to find the login and password that will allow you to connect to the Workstation-vm using RDP.
 
 4. Connect to the Workstation-vm using RDP and the login and password found in step 3.
 
 5. Discover the IP address of the domain controller Dc-vm.  
 
-6. Use a tool from the toolbox, (a) to find the login and password hash of the Domain Admin then (b) to connect to the domain controller using RDP.
+6. Use a resource, (a) to find the login and password hash of the Domain Admin then (b) to connect to the domain controller using RDP.
 
 
-  >**Note**: Each tool should be used one time  
+  >**Note**: Each resource should be used one time  
 
-## Toolbox
+#### Resources
+
 1. Mimikatz
     - https://github.com/ParrotSec/mimikatz
     - https://techyrick.com/mimikatz-tutorial/
