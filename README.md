@@ -15,7 +15,7 @@ The platform is already deployed. To start hacking, you have to connect to Hack-
 
 ## Learning Objectives
 
-This hack will help you learn about:
+This hack will help you learning about:
 - Network scanning 
 - Brute force attack 
 - Privilege escalation
