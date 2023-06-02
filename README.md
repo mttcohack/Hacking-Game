@@ -1,17 +1,27 @@
-# Hacking-Game
+# MTT CoHack Challenge: Hacking-Game
 
-## Goal
+## Introduction
 
 In this challenge, we invite you to step into the role of a hacker. Your first objective will be to access to a corporate network by infiltrating a user's machine. Once you have gained access to this machine, your ultimate goal will be to gain control over the company's domain.
 
 Are you ready? 
 
-## Environment 
-
-There are 3 VMs: Hack-vm (Windows10), Workstation-vm (Windows10) and Dc-vm (Windows Server 2016) 
-
-
 ![archi](./images/archi.png)
+
+## Requirements
+
+The CoHack lab platfrom consists of 3 VMs: Hack-vm (Windows10), Workstation-vm (Windows10) and Dc-vm (Windows Server 2016) 
+
+
+
+
+## Learning Objectives
+
+This hack will help you learn:
+- Network scanning 
+- Brute force attack 
+- Privilege escalation
+- Pass the hash attack  
 
 ## Hacking Steps
 
