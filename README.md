@@ -38,7 +38,7 @@ This hack will help you learning about:
 
   >**Note**: Each resource should be used one time  
 
-#### Resources
+## Resources
 
 1. Mimikatz
     - https://github.com/ParrotSec/mimikatz
