@@ -23,15 +23,15 @@ This hack will help you learning about:
 
 ## Success Criteria
 
-1. Connect to the Hack-vm using RDP. Your coach will provide you with the Public IP address and credentials.
+1. Connect to the HackVm using RDP. Your coach will provide you with the Public IP address and credentials.
 
-2. Use a resource to discover the private IP address of the Workstation-vm.
+2. Use a resource to discover the private IP address of the WorkstationVm.
 
-3. Use a resource to find the login and password that will allow you to connect to the Workstation-vm using RDP.
+3. Use a resource to find the login and password that will allow you to connect to the WorkstationVm using RDP.
 
-4. Connect to the Workstation-vm using RDP and the login and password found in step 3.
+4. Connect to the WorkstationVm using RDP and the login and password found in step 3.
 
-5. Discover the IP address of the domain controller Dc-vm.  
+5. Discover the IP address of the domain controller DcVm.  
 
 6. Use a resource, (a) to find the login and password hash of the Domain Admin then (b) to connect to the domain controller using RDP.
 
