@@ -10,7 +10,7 @@ Are you ready?
 
 ## Requirements
 
-The CoHack lab platfrom consists of 3 VMs: Hack-vm (Windows10), Workstation-vm (Windows10) and Dc-vm (Windows Server 2016).
+The CoHack lab platfrom consists of 3 VMs: HackVm (Windows10), WorkstationVm (Windows10) and DcVm (Windows Server 2016).
 The platform is already deployed. To start hacking, you have to connect to Hack-VM using RDP connection. The IP address and credentials will be provided by the coach.  
 
 ## Learning Objectives
